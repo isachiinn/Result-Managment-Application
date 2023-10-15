@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Students": [
+    {
+      "name": "Rinney",
+      "roll": 1,
+      "dob": "2000-01-01",
+      "score": 99,
+      "id": 2
+    },
+    {
+      "name": "keerthana",
+      "roll": 2,
+      "dob": "2001-04-27",
+      "score": 24,
+      "id": 3
+    },
+    {
+      "name": "kittu",
+      "roll": 2,
+      "dob": "11999-01-28",
+      "score": 11,
+      "id": 4
+    }
+  ],
+  "Teacher": [
+    {}
+  ]
+}
